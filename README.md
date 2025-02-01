@@ -102,22 +102,20 @@ The formula to calculate the Total Net Sale(s) amount using DAX expression:
 
     Total Net Sales = SUM('Sales Data'[Total Gross Sales]) - SUM('Sales Data'[Discount Total])
 
-* Description 
+* Description
 
-The visualisation displays a clustered bar chart “Top 3 stores according to their total net sales”, 
-as well as a slicer that consists the options of the year 2021 and 2022.
-The option for Clustered bar chart for this specific analysis is to mainly promotes comparison of the total net sales made by the different stores. 
-Each column’s length corresponds to the net sales amount, and the additonal value indicated by the end of each bar assissts with the precise of the total net sales amount for each store rather than stressing the reader’s eyes to navigate each amount, and instead, focusing on the main insight of the chart.
-When one of the slicer’s year option is chosen, it enabels simple comparison of the total net sales made by the three stores within the dedicated year.
-With an integrated tooltip as a storytelling function that provides a compact view of the store, net sales and the year when navigating through specific value. Not only is assists with data filter, it provides a straightforward user-friendly interface for data exploration. It functions to tell a story and guide the reader for quick data-driven decison making. 
+The visualization presents a clustered bar chart titled “Top 3 Stores by Total Net Sales,” accompanied by a slicer for selecting the years 2021 and 2022. The clustered bar chart is specifically designed to facilitate a comparative analysis of Total Net Sales across different Stores. The length of each column corresponds to the net sales figures, while the value displayed at the end of each bar provides an exact net sales amount, allowing for quick comprehension of sales performance without straining the viewer's attention.
 
-* Insight 
+By selecting a Year from the slicer, users can easily compare the Total Net Sales of the three stores for that specific year. The chart includes an integrated tooltip feature that serves as a storytelling element, offering a glance summary of the Store, Net Sales, and the relevant Year when hovering over particular values. This feature not only aids data filtering but also enhances the user experience for exploratory data analysis. It effectively communicates insights and supports rapid, data-driven decision-making.
 
-The three stores of the year 2021 is:  Canberra with net sales of 294k, Lanceston store with net sales of 302k, Toowomba with net sales of 298k.
+* Insight
+
+For the year 2021, the Net Sales figures for the Three Stores are as follows: Canberra reported net sales of 294k, Launceston store achieved 302k, and Toowoomba recorded 298k.
 
 * Assumption
 
-I have chosen to refer store names by their respective cities, as each Store ID corresponds to a specific city in the Store data. This approach enhances readability and facilitates a more detailed analysis of total net sales attributed to each store within a city. By using city names, we can more easily assess and compare performance metrics across different locations.
+In this analysis, Store Names are referred by their corresponding Cities, as each Store ID aligns with a specific City within the dataset. This method improves clarity and supports a more nuanced examination of the Total Net Sales linked to each Store within its location. Utilizing City Names streamlines the evaluation and comparison of performance metrics across various locations.
+
 
 ## 2. Are there months in which sales of a particular product in any of the states are significantly higher than others?
 
