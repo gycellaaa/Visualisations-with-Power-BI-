@@ -71,12 +71,12 @@ HI
 
 Year 2021
 
-![1. What are the top 3 stores by total net sales amount for each of the year 2021](https://github.com/user-attachments/assets/cd2b6b5d-61fa-45ce-a19b-4916b9469bd4) 
+![1.	What are the top 3 stores by total net sales amount for each of the years 2021](https://github.com/user-attachments/assets/ab445237-68ec-43ca-825d-156a329693b0)
 
 
 Year 2022
 
-![1.2. What are the top 3 stores by total net sales amount for each of the year 2022?](https://github.com/user-attachments/assets/0f5b6f7f-ad81-4c15-8b4c-676197ff3194)
+![2.	What are the top 3 stores by total net sales amount for each of the years 2022?](https://github.com/user-attachments/assets/680e14da-8dde-4f52-905e-5461b22ac262)
 
 * Steps
 
@@ -126,7 +126,7 @@ I have chosen to refer store names by their respective cities, as each Store ID 
 
 * Visualisation 
 
-![2. Are there months in which sales of a particular product in  any of the states are significantly higher than others?](https://github.com/user-attachments/assets/7b8d83f7-8ac2-4aee-bb14-b406d208ad3c)
+![3.	Which sales team has the highest profit margin?](https://github.com/user-attachments/assets/471dce9e-a1b9-465d-be2a-f64ff52f3e16)
 
 * Steps 
 
@@ -171,7 +171,7 @@ Furthermore, sales data indicated that Bar Tools experienced higher sales volume
 
 * Visualisation
 
-![3. Which sales team has the highest profit margin?](https://github.com/user-attachments/assets/d40fd3e5-7367-413e-aaa2-a202ca7f7860)
+![4.	Are there months in which sales of a particular product in  any of the states are significantly higher than others?](https://github.com/user-attachments/assets/e5241e66-2754-4a17-824a-3bf1ce0d9488)
 
 * Steps
 
@@ -203,7 +203,7 @@ The analysis indicates that the Jonathan Hawking sales team leads the ranking wi
 
 * Visualisation
 
-![4. Which warehouse(s) should be shut down?](https://github.com/user-attachments/assets/c9e6498e-7567-47fc-9243-8a19cb62e7d0)
+![5.	Which warehouse(s) should be shut down?](https://github.com/user-attachments/assets/42a67fdf-f930-4287-b516-119fb3da0c7c)
 
 * Steps
 
@@ -227,7 +227,7 @@ If the stakeholder prioritizes profitability, the analysis suggests that warehou
 
 * Visualisation
 
-![5. Do cities with a higher population have higher profit?](https://github.com/user-attachments/assets/139313c7-5cb0-4d4b-b2dd-dbaf08d5cbee)
+![6.	Do cities with a higher population have higher profit?](https://github.com/user-attachments/assets/4fcd1148-d4bf-4896-8993-c16c4c7cf38d)
 
 * Step
 
