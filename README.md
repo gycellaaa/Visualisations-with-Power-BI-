@@ -220,7 +220,8 @@ The visualization presents a Stacked Column chart illustrating the Total Profit 
 
 On the X-Axis, the chart displays Warehouse codes that correspond to their respective Net Sales and Profit figures. The Y-axis quantifies both Total Net Sales and Total Profit. The darker green bars represent Total Net Sales for each Warehouse, while the lighter green bars indicate Total Profit. This dual representation enables stakeholders to assess whether to prioritize profit margins or sales volume when considering warehouse closures, facilitating a more informed decision-making process.
 
-* Insight 
+* Insight
+  
 If the stakeholder prioritizes profitability, the analysis suggests that warehouse WARE-NBV1002 should be the candidate for closure. However, it is important to note that this recommendation is based on limited data; in practice, a comprehensive evaluation would incorporate additional factors to fully assess the viability of each warehouse.
 
 ## 5. Do cities with a higher population have higher profit?
